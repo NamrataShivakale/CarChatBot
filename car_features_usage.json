@@ -1,0 +1,154 @@
+{
+    "adaptive_cruise_control": {
+      "title": "Using Adaptive Cruise Control",
+      "steps": [
+        "Start the vehicle and reach a minimum speed (typically above 30 km/h).",
+        "Locate the cruise control buttons on the steering wheel.",
+        "Press the 'Cruise' or 'On' button to activate the system.",
+        "Use the 'Set' button to fix the current speed.",
+        "Adjust the following distance using the distance control button (usually marked with a car icon).",
+        "To cancel, press the brake or the 'Cancel' button. To resume, press 'Resume'."
+      ]
+    },
+    "lane_keep_assist": {
+      "title": "Using Lane Keep Assist",
+      "steps": [
+        "Ensure the system is enabled in the vehicle settings.",
+        "Start driving on a clearly marked road with visible lane lines.",
+        "The system activates automatically above a certain speed (e.g., 60 km/h).",
+        "If you begin to drift without signaling, the system will gently steer to keep the vehicle in the lane.",
+        "Look for the indicator light (usually a steering wheel icon) on the dashboard to confirm activation."
+      ]
+    },
+    "auto_parking": {
+      "title": "Using Automatic Parking",
+      "steps": [
+        "Drive slowly near a row of parked cars and press the 'Auto Park' button.",
+        "The system will scan for a suitable parking space.",
+        "Once a space is found, follow the on-screen instructions.",
+        "Control the accelerator and brake as instructed; the steering is handled automatically.",
+        "Wait until the system confirms parking is complete before releasing the controls."
+      ]
+    },
+    "rear_view_camera": {
+      "title": "Using the Rear View Camera",
+      "steps": [
+        "Shift the gear into 'Reverse'.",
+        "The rear view camera display will automatically appear on the infotainment screen.",
+        "Use the on-screen guidelines to align your vehicle while backing up.",
+        "Watch for obstacles, and don’t rely solely on the camera—always check your surroundings."
+      ]
+    },
+    "bluetooth_pairing": {
+      "title": "Pairing a Device via Bluetooth",
+      "steps": [
+        "Turn on Bluetooth on your phone.",
+        "On the car's infotainment system, go to the Bluetooth settings menu.",
+        "Select 'Add Device' or 'Pair New Device'.",
+        "Find the car's name on your phone's Bluetooth list and select it.",
+        "Confirm the pairing code shown on both devices.",
+        "Once paired, you can make calls or stream music through the car’s system."
+      ]
+    },
+    "adaptive_headlights": {
+      "title": "Using Adaptive Headlights",
+      "steps": [
+        "Ensure the headlights are set to 'Auto' mode.",
+        "The system will automatically adjust the headlight direction based on steering input and vehicle speed.",
+        "For manual adjustment, use the headlight control stalk to position the beams as needed."
+      ]
+    },
+    "blind_spot_monitoring": {
+      "title": "Using Blind Spot Monitoring",
+      "steps": [
+        "Activate the system via the vehicle settings menu.",
+        "Indicators will light up in the side mirrors when a vehicle is detected in the blind spot.",
+        "If you signal to change lanes while a vehicle is in the blind spot, an audible alert will sound."
+      ]
+    },
+    "automatic_high_beams": {
+      "title": "Using Automatic High Beams",
+      "steps": [
+        "Set the headlight control to 'Auto' mode.",
+        "The system will automatically switch between high and low beams based on oncoming traffic and ambient light.",
+        "If manual control is needed, use the headlight stalk to adjust the beams."
+      ]
+    },
+    "rain_sensing_wipers": {
+      "title": "Using Rain Sensing Wipers",
+      "steps": [
+        "Set the wiper control to 'Auto' mode.",
+        "The system will detect rain intensity and adjust wiper speed accordingly.",
+        "To deactivate, switch the wiper control to 'Off' or 'Manual' mode."
+      ]
+    },
+    "keyless_entry": {
+      "title": "Using Keyless Entry",
+      "steps": [
+        "Ensure the key fob is within range of the vehicle.",
+        "Press the button on the door handle to unlock the doors.",
+        "To lock, press the button again after exiting the vehicle."
+      ]
+    },
+    "push_button_start": {
+      "title": "Using Push Button Start",
+      "steps": [
+        "Ensure the key fob is inside the vehicle.",
+        "Press the brake pedal and push the 'Start/Stop' button to start the engine.",
+        "To turn off, press the 'Start/Stop' button again while the vehicle is in 'Park' mode."
+      ]
+    },
+    "panoramic_sunroof": {
+      "title": "Using the Panoramic Sunroof",
+      "steps": [
+        "Locate the sunroof control switch, usually on the overhead console.",
+        "Press and hold the 'Open' button to tilt or slide the sunroof back.",
+        "To close, press and hold the 'Close' button.",
+        "For ventilation, press the 'Tilt' button to raise the rear edge."
+      ]
+    },
+    "auto_dimming_mirrors": {
+      "title": "Using Auto Dimming Mirrors",
+      "steps": [
+        "Ensure the vehicle is in 'Drive' mode.",
+        "The rearview and side mirrors will automatically dim to reduce glare from headlights behind you.",
+        "To deactivate, press the 'Auto' button on the mirror."
+      ]
+    },
+    "heads_up_display": {
+      "title": "Using the Heads-Up Display",
+      "steps": [
+        "Activate the system through the vehicle settings menu.",
+        "Adjust the display position and brightness using the controls provided.",
+        "The display will show key information like speed, navigation, and warnings on the windshield."
+      ]
+    },
+    "voice_recognition": {
+      "title": "Using Voice Recognition",
+      "steps": [
+        "Press the voice command button on the steering wheel.",
+        "Wait for the prompt and speak your command, such as 'Navigate to [destination]' or 'Call [contact name]'.",
+        "Follow any additional prompts as needed."
+      ]
+    },
+    "wireless_charging": {
+      "title": "Using Wireless Charging",
+      "steps": [
+        "Place your Qi-compatible device on the designated charging pad, usually located in the center console.",
+        "Ensure the device is properly aligned with the charging coils.",
+        "A charging indicator will appear on the device screen once charging begins."
+      ]
+    },
+    "adaptive_air_suspension": {
+  "title": "Using Adaptive Air Suspension",
+  "steps": [
+    "Access the suspension settings through the vehicle's infotainment system.",
+    "Select the desired ride height: 'Low', 'Normal', or 'High'.",
+    "The system will automatically adjust the suspension height based on the selected mode and driving conditions.",
+    "Use 'Low' for better aerodynamics and high-speed driving.",
+    "Use 'High' for increased ground clearance in rough or off-road conditions.",
+    "Return to 'Normal' for everyday driving comfort.",
+    "The system may auto-adjust when entering highways or rough terrain if set to adaptive mode."
+  ]
+}
+}
